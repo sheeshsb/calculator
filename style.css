@@ -1,0 +1,51 @@
+body{
+    background-color:bisque;
+    text-align:center;
+}
+table,td,tr{
+    table-layout:fixed;
+margin:auto;
+font-weight:bolder;
+font-size:larger;
+font-family:Times New Roman
+Georgia;
+font-style:oblique;
+}
+input{
+display:inline-block; 
+width:100% ;
+height:100%;
+color:orangered;
+font-weight:bolder;
+font-size:larger;
+font-family:Times New Roman
+Georgia;
+font-style:oblique;
+border-radius:20px;
+}
+.number{
+    background-color:cornflowerblue;
+}
+.operator{
+    background-color:#333333;
+    color:springgreen;
+}
+.ac{
+    background-color:coral;
+    color:darkslategrey;
+}
+#disArea{
+    color:mediumslateblue;
+    display:inline-block;
+    width: 99%;
+    border-radius:10px;
+    
+}
+input:hover{
+    box-shadow: 0 0 5px 2px crimson;
+}
+h1{
+    font-family:"Courier New";
+    color:chocolate;
+}
+         
